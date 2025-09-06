@@ -25,6 +25,7 @@ Interatividade: Botões clicáveis, links externos e ícones personalizados.
 
 
 🧱 Estrutura do Projeto
+
 curriculo_web/
  ├── css/
  │    └── style.css
@@ -40,6 +41,7 @@ curriculo_web/
  ├── index.html
  ├── sobreMin.html
  └── README.md
+ 
 
 🛠️ Tecnologias Utilizadas
 
