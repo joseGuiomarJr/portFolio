@@ -60,7 +60,7 @@ Navegador web moderno (Google Chrome, Firefox, Edge, etc.)
 
 Clone o repositório:
 
-git clone https://github.com/joseGjr/portfolio.git
+git clone https://github.com/joseGuiomarJr
 
 
 Abra o arquivo index.html diretamente no navegador.
