@@ -1,5 +1,5 @@
 🌐 Portfólio Online — José Jr.
-<p align="center"> <img src="assets/demo1.png" alt="Prévia do Portfólio" width="600"/> </p>
+<p align="center"> <img src="./curriculo_web/assets/1.jpg" alt="Página Sobre Mim" width="600"/> </p>
 📌 Sobre o Projeto
 
 Este projeto é um currículo online interativo, desenvolvido em HTML5 e CSS3, com design moderno e totalmente responsivo.
@@ -23,7 +23,7 @@ Interatividade: Botões clicáveis, links externos e ícones personalizados.
 
 Ícones e fontes: Uso de Font Awesome e Google Fonts para melhorar a experiência visual.
 
-<p align="center"> <img src="./curriculo_web/assets/1.jpg" alt="Página Sobre Mim" width="600"/> </p>
+
 🧱 Estrutura do Projeto
 curriculo_web/
  ├── css/
