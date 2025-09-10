@@ -24,24 +24,7 @@ Interatividade: Botões clicáveis, links externos e ícones personalizados.
 Ícones e fontes: Uso de Font Awesome e Google Fonts para melhorar a experiência visual.
 
 
-🧱 Estrutura do Projeto
-
-curriculo_web/
- ├── css/
- │    └── style.css
- ├── img/
- │    ├── about.jpg
- │    ├── contato.jpg
- │    ├── habilidades.jpg
- │    ├── demo1.png
- │    ├── demo2.png
- │    └── ...
- ├── contato.html
- ├── habilidades.html
- ├── index.html
- ├── sobreMin.html
- └── README.md
- 
+<img src="./curriculo_web/assets/demoEstrutura.jpg" />
 
 🛠️ Tecnologias Utilizadas
 
